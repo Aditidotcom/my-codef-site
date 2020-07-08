@@ -1,5 +1,5 @@
 title = "Shay's Bakes"
-baseURL = "https://example.com"
+baseURL = "https://ecstatic-heisenberg-8bca9f.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
