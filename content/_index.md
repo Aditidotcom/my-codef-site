@@ -13,11 +13,11 @@ Welcome to Shay's Bakes, the site for all things baking.
 The best thing about baking: Making friends
 
 - What you need to start baking:
-	Ingredients
-	Bowl
-	Spoon
-	Sunny Disposition
-	**Love**
+	- Ingredients
+	- Bowl
+	- Spoon
+	- Sunny Disposition
+	- **Love**
 
 
 This is a link [for a recipe](https://www.buzzfeed.com/hannahwilliams/this-cookie-dough-cheesecake-will-literally-melt-in-your-mou)
