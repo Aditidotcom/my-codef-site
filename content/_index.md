@@ -17,7 +17,7 @@ list
 	item 3
 
 
-This is a link [for insta](https://www.instagram.com/p/BuWlTL5AL7HgsXT0j2KKlSAcTm-DZs6LwN1P8M0/).
+This is a link [for a recipe](https://www.buzzfeed.com/hannahwilliams/this-cookie-dough-cheesecake-will-literally-melt-in-your-mou)
 
 ![pie](apple_pie.jpeg)
 mmmmmm... pie!
