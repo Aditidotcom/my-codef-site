@@ -10,6 +10,8 @@ Welcome to Shay's Bakes, the site for all things baking.
 
 **something** about _something_
 
+The best thing about baking: Making friends
+
 list
 	item 1
 		subitem
