@@ -8,11 +8,10 @@ draft: false
 
 Welcome to Shay's Bakes, the site for all things baking.  
 
-**something** about _something_
 
 The best thing about baking: Making friends
 
-What you need to start baking:
+- What you need to start baking:
 	- Ingredients
 	- Bowl
 	- Spoon
